@@ -3,3 +3,8 @@ div {
 	margin: 5px;
 	color: blue;
 }
+
+
+#first p {
+	font-size: larger;
+}
